@@ -7,7 +7,7 @@ The purpose of the program is to start the beginning of my
 programming journey. It demonstrates the use of Visual Studio
 Code, GitHub, Git, and Python integrated together.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/vP1LSUvWSMo)
 
 # Development Environment
 
